@@ -4,7 +4,7 @@
 <short-name>northwind_access</short-name>
 <tag>
 <name>northwindDB</name>
-<tag-class>apperfect.Process</tag-class>
+<tag-class>org.apperfect.Process</tag-class>
 <attribute>
 <name>driver</name>
 <required>true</required>

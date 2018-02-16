@@ -1,4 +1,4 @@
-package apperfect;
+package org.apperfect;
 
 import java.io.IOException;
 import java.sql.DriverManager;

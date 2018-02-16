@@ -1,4 +1,4 @@
-package apperfect;
+package org.apperfect;
 
 
 public class ErrorFinder {
